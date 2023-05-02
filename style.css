@@ -6,12 +6,19 @@ body {
 
 #titulo {
     font-family: 'Russo One', sans-serif;
-    padding-left: 100px;
+    margin-left: 100px;
     color: aliceblue;
+    letter-spacing: 1px;
+    border-style: solid;
+    width: 38%;
+    border-radius: 11px;
+    text-align: center;
+    border-color: lawngreen;
 }
 
 #linha-topo {
     width: 90%;
+    border-color: lawngreen;
 }
 
 
@@ -22,6 +29,11 @@ body {
     padding-top: 50px;
     font-family: "Russo One", sans-serif;
     color: aliceblue;
+    line-break: anywhere;
+}
+
+.relevancia {
+    background-color: lawngreen;
 }
 
 #informacoes {
